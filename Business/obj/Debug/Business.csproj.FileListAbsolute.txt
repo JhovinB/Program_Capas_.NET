@@ -1,0 +1,22 @@
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\obj\Debug\Business.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\bin\Debug\Business.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\bin\Debug\Business.pdb
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\bin\Debug\Data.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\bin\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\bin\Debug\Data.pdb
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\bin\Debug\Entity.pdb
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\obj\Debug\Business.csproj.CopyComplete
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\obj\Debug\Business.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Business\obj\Debug\Business.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\bin\Debug\Business.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\bin\Debug\Business.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\bin\Debug\Data.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\bin\Debug\Entity.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\bin\Debug\Data.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\bin\Debug\Entity.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\obj\Debug\Business.csproj.CopyComplete
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\obj\Debug\Business.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Business\obj\Debug\Business.pdb

@@ -1,0 +1,18 @@
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\bin\Debug\Data.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\bin\Debug\Data.pdb
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\bin\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\bin\Debug\Entity.pdb
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\obj\Debug\Data.csproj.CopyComplete
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\obj\Debug\Data.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Data\obj\Debug\Data.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\bin\Debug\Data.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\bin\Debug\Data.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\bin\Debug\Entity.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\bin\Debug\Entity.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\obj\Debug\Data.csproj.CopyComplete
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\obj\Debug\Data.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Data\obj\Debug\Data.pdb

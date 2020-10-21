@@ -1,0 +1,12 @@
+E:\ProjectVisualStudio\6-ciclo\Semana5\Entity\bin\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Entity\bin\Debug\Entity.pdb
+E:\ProjectVisualStudio\6-ciclo\Semana5\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\6-ciclo\Semana5\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\6-ciclo\Semana5\Entity\obj\Debug\Entity.dll
+E:\ProjectVisualStudio\6-ciclo\Semana5\Entity\obj\Debug\Entity.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Entity\bin\Debug\Entity.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Entity\bin\Debug\Entity.pdb
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Entity\obj\Debug\Entity.dll
+D:\6to Ciclo\Web Avanzado\Sem05\Semana5\Entity\obj\Debug\Entity.pdb
